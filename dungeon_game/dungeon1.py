@@ -90,10 +90,10 @@ while True:
         print("You were eaten by the grue!")
         break
         
-    # if its a good move, chnage player's positions
+    # if its a good move, change player's positions
     # if its a bad move don't change anything
-    # if new player position is the door, they win!
-    # if new player position is the monster, they lose!
+    # if new player's position is the door, they win!
+    # if new player's position is the monster, they lose!
     # Otherwise continue
     
     
